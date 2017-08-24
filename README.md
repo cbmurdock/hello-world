@@ -1,2 +1,3 @@
-# hello-world
-my first repo
+the first step to sucking is trying.
+
+i am trying.
